@@ -1,0 +1,55 @@
+.App {
+  text-align: center;
+}
+
+.box {
+  margin: 3%;
+  position: relative;
+}
+
+#image {
+  position: relative;
+  opacity: 0.5;
+}
+
+#text {
+  position: absolute;
+  top: 17px;
+  left: 90px;
+}
+
+.light {
+  background-color: white;
+  color: black;
+  font-size: 25px;
+  height: 100%;
+}
+
+.dark {
+  background-color: black;
+  color: white;
+  font-size: 25px;
+  height: 100%;
+}
+
+#right {
+  margin-left: 90%;
+}
+
+#switch {
+  margin-left: 45%;
+}
+
+#main {
+  position: absolute;
+  top: 75px;
+  left: 60px;
+  font-size: 24px;
+}
+
+#description {
+  position: absolute;
+  top: 105px;
+  left: 60px;
+  font-size: 22px;
+}
